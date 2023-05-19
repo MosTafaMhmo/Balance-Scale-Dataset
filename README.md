@@ -7,8 +7,8 @@ This data set was generated to model psychological experimental results. Each ex
 
 **Attribute Information:
 
-Class Name: 3 (L, B, R)
-Left-Weight: 5 (1, 2, 3, 4, 5)
-Left-Distance: 5 (1, 2, 3, 4, 5)
-Right-Weight: 5 (1, 2, 3, 4, 5)
-Right-Distance: 5 (1, 2, 3, 4, 5)**
+1-Class Name: 3 (L, B, R)
+2-Left-Weight: 5 (1, 2, 3, 4, 5)
+3-Left-Distance: 5 (1, 2, 3, 4, 5)
+4-Right-Weight: 5 (1, 2, 3, 4, 5)
+5-Right-Distance: 5 (1, 2, 3, 4, 5)**
